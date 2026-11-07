@@ -1,3 +1,5 @@
+Update 07.11.2026: API is not answering, hence the website is not working anymore
+
 # Games-ADB
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
